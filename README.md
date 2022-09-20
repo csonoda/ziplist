@@ -20,7 +20,7 @@ Disable IntelliJ Javascript inspection (Preferences > Editor > Inspections > Jav
 Define the Javascript Language as ECMAScript6+ (Preferences > Languages & Frameworks > Javascript).
 Enable ESLint (Preferences > Languages & Frameworks > Javascript > Code Quality Tools > ESLint).
 Once you have done the one time tasks, then all you should need to do is:
-Download sample.eslintrc.js into the project directory, and rename it to .eslintrc.js.
+Download eslintrc.js into the project directory, and rename it to .eslintrc.js.
 Download sample.package.json into the project directory, and rename it to package.json.
 Download sample.gitignore into the project directory, and rename it to .gitignore.
 CD into the project directory, and run npm install to install ESLint.
